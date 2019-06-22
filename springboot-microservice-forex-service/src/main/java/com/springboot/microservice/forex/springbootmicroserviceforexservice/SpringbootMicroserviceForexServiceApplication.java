@@ -9,5 +9,4 @@ public class SpringbootMicroserviceForexServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootMicroserviceForexServiceApplication.class, args);
 	}
-
 }
